@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/mytv-android/.github/main/profile/banner.png" alt="mytv-android" width="100%">
 </p>
 
-<p align="center">所有应用都支持手机、平板与 Android TV。</p>
+<p align="center">除了电视桌面 myLauncher，所有应用都支持手机、平板与 Android TV。</p>
 
 | | 应用 | 简介 | 下载 |
 |:-:|---|---|---|
@@ -11,3 +11,5 @@
 | <img src="https://raw.githubusercontent.com/mytv-android/.github/main/profile/icons/mydv_icon_512.png" width="48"> | [**myDV**](https://github.com/mytv-android/myDV) | 竖屏短视频客户端 | [Releases](https://github.com/mytv-android/myDV/releases/latest) |
 | <img src="https://raw.githubusercontent.com/mytv-android/.github/main/profile/icons/myhotpot_icon_512.png" width="48"> | [**myHotpot**](https://github.com/mytv-android/myHotpot) | 短剧播放器，追剧一锅涮 | [Releases](https://github.com/mytv-android/myHotpot/releases/latest) |
 | <img src="https://raw.githubusercontent.com/mytv-android/.github/main/profile/icons/mymusic_icon_512.png" width="48"> | [**myMusic**](https://github.com/mytv-android/myMusic) | 音乐客户端：搜索、歌单、歌词 | [Releases](https://github.com/mytv-android/myMusic/releases/latest) |
+| <img src="https://raw.githubusercontent.com/mytv-android/.github/main/profile/icons/myearthquakealert_icon_512.png" width="48"> | [**地震速报**](https://github.com/mytv-android/myEarthquakeAlert) | 地震预警：实时速报、悬浮窗预警、震中地图 | [Releases](https://github.com/mytv-android/myEarthquakeAlert/releases/latest) |
+| <img src="https://raw.githubusercontent.com/mytv-android/.github/main/profile/icons/mylauncher_icon_512.png" width="48"> | [**myLauncher**](https://github.com/mytv-android/myLauncher) | Android TV 桌面：主页、应用、小组件 | [Releases](https://github.com/mytv-android/myLauncher/releases/latest) |
